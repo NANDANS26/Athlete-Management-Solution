@@ -35,7 +35,7 @@ Built using **React, Firebase, Google Cloud Console, Project IDX, and Gemini API
 | **Google Cloud Console**    | Scalable data storage & processing          |  
 | **Project IDX**             | Cloud-based development & AI-powered coding |  
 | **Gemini API**              | AI-driven insights & chatbot interaction    |  
-| **Google Fit & Fitbit API** | Wearable device data integration            |  
+| **Strava API** | Wearable device data integration            |  
 
 ---
 
