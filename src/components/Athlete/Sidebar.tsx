@@ -34,7 +34,7 @@ const Sidebar = ({ menuItems, activeSection, onSectionChange }: SidebarProps) =>
     >
       <div className="h-full flex flex-col">
         <div className="p-4">
-          <h2 className="text-2xl font-bold text-primary">Recruiter Hub</h2>
+          <h2 className="text-2xl font-bold text-primary">Athlete Hub</h2>
         </div>
 
         <nav className="flex-1 px-4 py-2">
